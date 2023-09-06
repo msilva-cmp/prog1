@@ -4,3 +4,6 @@ v1.1
 
 Nueva actualización:
 v2.0
+
+Nueva versión:
+v2.0.1
